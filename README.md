@@ -1,3 +1,3 @@
 # hello-world
 
-This file is now about gachas. I pulled Li Shuwen earlier.
+I have to improve monitoring of this file apparently.
